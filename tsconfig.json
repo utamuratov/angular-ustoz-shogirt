@@ -3,6 +3,10 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@ng-doc/generated": ["./ng-doc/angular-ustoz-shogirt/index.ts"],
+      "@ng-doc/generated/*": ["./ng-doc/angular-ustoz-shogirt/*"]
+    },
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
