@@ -35,5 +35,5 @@ Ushbu qo'llanma Angularni mustaqil o'rganmoqchi bo'lganlar uchun mo'ljallangan. 
 - Muntazam takrorlash
 
 > **Note**
-> Ushbu kursni tugatgach albatta sizdan mustaqil amaliyot qilish talab qilinadi. Kamida 1-3 ta loyiha qilishingiz, o'rgangan bilimingizni amaliyotda qo'llashingiz kerak bo'ladi.
+> Ushbu kursni tugatgach albatta sizdan amaliyot qilish talab qilinadi. Kamida 1-3 ta loyiha qilishingiz, o'rgangan bilimingizni amaliyotda qo'llashingiz kerak bo'ladi.
 > Yoki muallif qo'l ostida amaliyot o'tash uchun [utamuratovs](https://t.me/utamuratovs) ga bog'lanishingiz mumkin bo'ladi.

@@ -78,15 +78,14 @@ Faqatgina **bitta HTML sahifa** yuklanadi va qolgan sahifalar, o’zgarishlar Ja
 | Kod chalkashib ketadi  | Kod tartibli          |
 
 <aside>
-💡
 
-**Xulosa**
-
-Agar katta va kengayib boradigan loyiha qilmoqchi bo‘lsangiz — Angular to’g’ri tanlov.
+> **Note**
+> **Xulosa** \
+> Agar katta va kengayib boradigan loyiha qilmoqchi bo‘lsangiz — Angular to’g’ri tanlov.
 
 </aside>
 
-**⁉️ Topshiriq 1**
+**⁉️ Topshiriq 1**\
 Siz HTML orqali oddiy input va uning yonida ikkita `+` `-` tugmalarini yasashingiz kerak. `+` tugmasi bosilganda input ichidagi qiymat 1 ga oshishi, `-` tugmasi bosilganda esa 1 ga kamayishi kerak. Bu funksional JavaScript orqali qilinishi kerak.
 Xo’sh, bu topshiriqni qanday qilasiz? Amalda qilib ko’ring yoki topshiriq juda oddiy bo’lsa qanday qilishingizni miyangizda o’ylab, o’zingizni interviewdaman deb tasavvur qilib unga to’liq javob berishga harakat qiling.
 
@@ -107,9 +106,9 @@ Angular:
 - Zamonaviy yondashuv
 
 <aside>
-💡
 
-Ushbu kursda **zamonaviy Angular (14+)** ishlatiladi.
+> **Alert**
+> Ushbu kursda **zamonaviy Angular (14+)** ishlatiladi.
 
 </aside>
 
@@ -278,15 +277,19 @@ Module:
 - Component, service’larni birlashtiradi
 
 <aside>
-💡
 
-Hozirgi zamonaviy Angulardagi **Standalone Component** sababli module deyarli ishlatilmaydi.
+> **Alert**
+> Hozirgi zamonaviy Angulardagi **Standalone Component** sababli module deyarli ishlatilmaydi.
 
 </aside>
 
-[#5 Angular Legolari: Component, Template, Logika va Service | Angularga samarali kirish | 100 daqiqa](https://youtu.be/AcNUd3C7KMc)
+<iframe 
+  width="560px"
+  height="315px" src="https://www.youtube.com/embed/AcNUd3C7KMc" title="#5 Angular Legolari: Component, Template, Logika va Service | Angularga samarali kirish | 100 daqiqa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[#6 Angular loyiha strukturasi | Boshlang'ich bilimlar | Angularga samarali kirish | 100 soniyada](https://youtu.be/2DzboodOY38)
+<iframe 
+  width="560px"
+  height="315px" src="https://www.youtube.com/embed/2DzboodOY38" title="#6 Angular loyiha strukturasi | Boshlang&#39;ich bilimlar | Angularga samarali kirish | 100 soniyada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Savollarga javob bering!
 
